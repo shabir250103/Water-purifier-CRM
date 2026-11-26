@@ -1,0 +1,11 @@
+Django>=5.0
+djangorestframework
+django-cors-headers
+django-filter
+djangorestframework-simplejwt
+python-dotenv
+whitenoise
+psycopg2-binary
+waitress
+gunicorn
+pymysql

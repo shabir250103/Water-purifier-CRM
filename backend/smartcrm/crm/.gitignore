@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django stuff
+*.log
+db.sqlite3
+/staticfiles/
+/media/
+/.env
+
+# VSCode settings
+.vscode/
+
+# Migrations cache
+*.pyc
